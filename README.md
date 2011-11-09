@@ -1,9 +1,28 @@
-TWITTER BOOTSTRAP
+TWITTER BOOTSTRAP XTRA
 =================
 
 Bootstrap is Twitter's toolkit for kickstarting CSS for websites, apps, and more. It includes base CSS styles for typography, forms, buttons, tables, grids, navigation, alerts, and more.
 
-To get started -- checkout http://twitter.github.com/bootstrap!
+To get started -- checkout https://github.com/lightglitch/bootstrap-xtra
+
+Why XTRA?
+
+Because there features that the developers don't want in the main trunk but I think that some people might be interested.
+
+What are the extra features?
+
+* Icon Buttons 
+
+Instead of using this repo you can also use the addon at:
+
+https://github.com/lightglitch/bootstrap-xtra/downloads
+
+to add this features to the official version.
+
+TWITTER BOOTSTRAP
+=================
+
+https://github.com/twitter/bootstrap
 
 
 Usage
